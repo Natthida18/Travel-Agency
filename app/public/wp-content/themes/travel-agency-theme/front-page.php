@@ -304,7 +304,7 @@
 		<img src="<?php echo esc_url( $logo_image5['url'] ); ?>" alt="Alitalia Logo" class="logo">
 	</section>
 	<section class="subscribe-section center margin-padding" style="background-image: url(<?php echo esc_url( get_theme_file_uri( '/images/subscribe-bg.png' ) ); ?>);">
-		<img src="<?php echo esc_url( get_theme_file_uri( '/images/subscribe-decore1.png' ) ); ?>" class="subscribe-decore2">
+		<img src="<?php echo esc_url( get_theme_file_uri( '/images/subscribe-decore1.png' ) ); ?>" class="subscribe-decore1">
 		<p class="subscribe-description">
 			Subscribe to get information, latest news and other interesting offers about Cobham
 		</p>

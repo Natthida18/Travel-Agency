@@ -752,7 +752,7 @@
         margin-bottom: 50px;
     }
 
-    .subscribe-decore2 {
+    .subscribe-decore1 {
         position: absolute;
         right: 0;
         top: 0;
@@ -786,10 +786,6 @@
         text-align: center;
         font-size: 40px;
         margin-bottom: 100px;
-    }
-
-    .wp-block-heading {
-        margin: 30px 0 10px 0;
     }
 }
 
