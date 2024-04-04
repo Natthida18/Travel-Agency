@@ -469,6 +469,12 @@
     padding: 10px 10px 10px 0;
 }
 
+.copy-right {
+    font-family: "Poppins", sans-serif;
+    color: var(--text-color1);
+    font-size: 14px;
+}
+
 @media only screen and (min-width: 498px) {
     .header {
         justify-content: space-between;
@@ -790,7 +796,7 @@
     .navbar-menu {
         display: flex;
         gap: 4rem;
-        font-family: Google Sans;
+        font-family: "Google Sans", sans-serif;
         font-size: 17px;
         text-align: left;
         align-items: center;
